@@ -22,6 +22,14 @@ via npm:
 
     {{ _n("There is a template", "There are {n} templates", 3) }}
 
+    // ./locales/zh_CN.js
+    {
+      "Hello World": "你好世界",
+      "Hello {name}": "你好{name}",
+      "There is a template": "有一个模板",
+      "There are {n} templates": "有{n}个模板",
+    }
+
     // Within expressjs
     app.use(locales.detector);
 
