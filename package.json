@@ -1,7 +1,7 @@
 {
   "name": "locales",
   "description": "Internationalization for node.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Shaun Li <shonhen@gmail.com>",
   "keywords": ["i18n"],
   "main": "./lib/locales.js"
